@@ -1,4 +1,4 @@
-module github.com/ginkgoch/godash
+module github.com/ginkgoch/godash/v2
 
 go 1.18
 
